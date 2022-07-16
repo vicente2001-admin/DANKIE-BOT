@@ -22,7 +22,7 @@
 ├❏pkg install imagemagick -y
 ├❏termux-setup-storage
 ├❏git clone https://github.com/vicente2001-admin/DANKIE-BOT
-├❏cd HADES-BOT-MDV2
+├❏cd DANKIE-BOT-MDV2
 ├❏npm install
 ├❏pkg install yarn
 ├❏npm update
@@ -34,12 +34,12 @@
 ```bash
 ┌「𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝙲𝙸𝙾𝙽 」─
 ├❏Si el termux se cierra para volver activar escribe:
-├❏cd HADES-BOT-MDV2 
+├❏cd DANKIE-BOT-MDV2 
 ├❏npm start 
 ├❏───ׂ─ׂ─ׂ─ׂ─」
 ├❏ Para obtener nuevamente el 
 ├❏codigo QR, escribe en el termux:
-├❏cd HADES-BOT-MDV2 
+├❏cd DANKIE-BOT-MDV2  
 ├❏rm -rf session.data.json
 ├❏npm start 
 ├❏───ׂ─ׂ─ׂ─ׂ─」
